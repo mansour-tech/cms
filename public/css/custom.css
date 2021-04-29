@@ -1,0 +1,42 @@
+body{
+  font-family: myFont;
+  direction: rtl;
+}
+
+@font-face {
+  font-family: myFont;
+  src: url('JF-Flat-regular.ttf');
+}
+
+.content{
+  line-height:3;
+  word-break: break-all ;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+
+.avatar_preview {
+  width: 240px;
+  height: 240px;
+}
+
+.profile {
+  vertical-align: middle;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.word-break{
+  word-break: break-all ;
+}
+
+footer{
+    margin-top:200px;
+}
+

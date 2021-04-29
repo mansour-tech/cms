@@ -1,0 +1,9 @@
+body{
+  font-family: myFont;
+  direction: rtl;
+}
+
+@font-face {
+  font-family: myFont;
+  src: url('../css/JF-Flat-regular.ttf');
+}
